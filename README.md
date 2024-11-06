@@ -1,6 +1,6 @@
 # Pac-Man Motion Graphics Game
 
-It is a simple Pac-Man-inspired game built using Python and Pygame. The game includes Pac-Man,
+It's a simple Pac-Man-inspired game built using Python and Pygame. The game includes Pac-Man,
 moving ghosts, walls with openings, and collectable dots.
 Pac-Man bounces off walls and can eat dots for points while avoiding collisions with ghosts.
 
