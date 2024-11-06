@@ -133,7 +133,7 @@ while True:
         for dot_x, dot_y in dots:
             if math.hypot(pacman_x - dot_x, pacman_y - dot_y) < pacman_radius:
                 score += 10  # Increase score
-                continue  # Pac-Man eats the dot if within range
+                continue  # Pac-Man eats the score multiplier ball
             pygame.draw.circle(screen, dot_color, (dot_x, dot_y), 5)
             new_dots.append((dot_x, dot_y))
         dots = new_dots
