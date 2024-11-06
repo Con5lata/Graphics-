@@ -6,7 +6,7 @@ Pac-Man bounces off walls and can eat dots for points while avoiding collisions 
 
 ## Features
 - **Pac-Man Movement**: Control Pac-Man with arrow keys to navigate around the screen.
-- **Ghost Movement**: Ghosts move autonomously and bounce off walls.
+- **Ghost Movement**: Ghosts move around autonomously and bounce off walls.
 - **Collision Detection**: 
     - Pac-Man bounces off walls and collects dots.
     - The game ends if Pac-Man collides with a ghost.
